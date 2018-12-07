@@ -1,0 +1,16 @@
+@charset "utf-8";
+#Contacts {
+	height: auto;
+	width: 595px;
+
+
+}
+body div {
+	height: 400px;
+	width: 595px;
+
+}
+#image {
+	width: 595px;
+	height: auto;
+}
